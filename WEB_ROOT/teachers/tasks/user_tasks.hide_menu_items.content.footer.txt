@@ -1,0 +1,13 @@
+<!-- 
+Plugin: rsd-teachers-summer-schedule
+Enable to hide rosters but show schedules.
+Updated: 08/05/2025 
+-->
+<script>
+    {
+    $j('#navPowerTeacherPro').hide();
+    $j('#navReports').hide();
+    $j('#navRecommendations').hide();
+    $j('#navStudentObservations').hide();
+    }
+</script>

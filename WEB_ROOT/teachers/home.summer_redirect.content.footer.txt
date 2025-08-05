@@ -1,0 +1,6 @@
+<!-- 
+Plugin: rsd-teachers-summer-schedule
+Enable to hide rosters but show schedules.
+Updated: 08/05/2025 
+-->
+~[redirect:/teachers/schedulematrix.html]

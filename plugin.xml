@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><plugin xmlns="http://plugin.powerschool.pearson.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+description="Enable to hide rosters but show schedules. Disable Mobile Web Pages - Additional System Preferences." 
+name="rsd-teachers-summer-schedule" 
+version="25.08.05.2" 
+xsi:schemaLocation="http://plugin.powerschool.pearson.com plugin.xsd">
+<publisher name="Robert Dalton">
+<contact email="rdalton@neptune.k12.nj.us"/>
+</publisher>
+</plugin>
